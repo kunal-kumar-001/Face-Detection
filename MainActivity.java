@@ -8,9 +8,7 @@ import android.view.View;
 
 import com.example.mlkunal.helpers.ImageHelperActivity;
 import com.example.mlkunal.image.FaceDetectionActivity;
-import com.example.mlkunal.image.FlowerIdentificationActivity;
-import com.example.mlkunal.image.ImageClassificationActivity;
-import com.example.mlkunal.image.ObjectDetectionActivity;
+
 
 public class MainActivity extends AppCompatActivity {
 
